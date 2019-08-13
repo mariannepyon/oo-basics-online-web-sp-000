@@ -9,8 +9,7 @@ class Shoe
 
   def cobble
     puts "Your shoe is as good as new!"
+    @condition = new
   end
 
-condition = condition.new("old")
-book.condition
 end
